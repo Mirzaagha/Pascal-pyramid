@@ -8,7 +8,7 @@ for x in range(10):
     s = d.shape
     for r in range(s[0]):
         for c in range(s[1]):
-            d[r, c] = np.sum(b[0+c:2+c, 0+r:2+r]*e)
+            d[r, c] = np.sum(b[0+c:2+c, 0+r:2+r] *e)
     print(d)
     print("\n")
     a = d
