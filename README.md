@@ -1,1 +1,1 @@
-This code generates numerical repsentation of Pascal pyramid
+This code generates a numerical representation of the Pascal pyramid.
